@@ -6,17 +6,4 @@ categories: Javascript NodeJS
 ---
 안녕하세요. 첫 번째 게시글을 작성합니다.
 
-```javascript
-const Razorpay = require('razorpay');
-
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
-```
+![profile]({{site.url}}/assets/profile.png)

@@ -61,3 +61,6 @@ plugins:
 #  - jekyll-feed
 
 future : true
+
+# Site Settings
+url: "https://rlanrid.github.io"
