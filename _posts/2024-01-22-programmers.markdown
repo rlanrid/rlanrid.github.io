@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  ""
-date:   2024-01-22 17:55:00 +0530
+title:  "각도기"
+date:   2024-01-22 17:21:00 +0530
 categories: Javascript NodeJS
 --- 
 <h2>문제</h2>   
