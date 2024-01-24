@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "첫 번째로 나오는 음수"
-date:   2024-01-22 17:20:00 +0530
+date:   2024-01-23 17:20:00 +0530
 categories: Javascript
 --- 
 <h2>문제</h2>   
